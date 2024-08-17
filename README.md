@@ -1,5 +1,5 @@
 # Pong Game⚽
-Welcome to the Pong Game⚽! This project implements the classic Pong game using Python's `turtle` graphics library. It features two paddles, a ball, and a scoreboard to track player points.
+Welcome to the Pong Game⚽! This project implements the classic Pong game using Python's turtle graphics library. It features two paddles, a ball, and a scoreboard to track player points.
 
 ## Features😊
 - **Two Player Mode**: Play against another player with controls for each paddle.<br>
